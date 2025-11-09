@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JJ</h1>
-<h3 align="center">A Computer Science students that likes to build cool stuff that help me and might help others as well!</h3>
+<h3 align="center">A Computer Science student that likes to build cool stuff that help me and might help others as well!</h3>
 
 - 🔭 I’ve worked on [One Big Match](https://onebigmatch.com/)
 
