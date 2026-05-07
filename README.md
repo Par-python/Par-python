@@ -3,7 +3,7 @@
 
 - 🔭 I’ve worked on [One Big Match](https://onebigmatch.com/)
 
-- 🌱 I’m currently learning **SQL, Django, and ReactJS**
+- 🌱 I’m currently learning **CI/CD Pipelines**
 
 - 🧑‍💻 I’m currently developing **S1napse**
 
