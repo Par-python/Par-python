@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CI/CD Pipelines**
 
-- 🧑‍💻 I’m currently developing **S1napse**
+- 🧑‍💻 I’m currently developing **S1napse** and **bigfiles**
 
 - 👨‍💻 All of my projects are available at [https://jjpardo.com/](https://jjpardo.com/)
 
