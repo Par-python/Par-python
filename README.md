@@ -1,21 +1,31 @@
 <h1 align="center">Hi 👋, I'm JJ</h1>
-<h3 align="center">A Computer Science students that likes to build cool stuff that help me and might help others as well!</h3>
+<h3 align="center">Computer Science student building things that are useful, fun, and (hopefully) impactful</h3>
 
-- 🔭 I’ve worked on [One Big Match](https://onebigmatch.com/)
+<p align="center">
+  <a href="https://jjpardo.com/">Portfolio</a> •
+  <a href="https://cv.jjpardo.com/cv.pdf">Resume</a> •
+  <a href="https://www.linkedin.com/in/john-jerome-pardo-24b5bb311/">LinkedIn</a>
+</p>
 
-- 🌱 I’m currently learning **CI/CD Pipelines**
+---
 
-- 🧑‍💻 I’m currently developing **S1napse** and **bigfiles**
+### 🚀 About Me
+- 🔭 Worked on **[One Big Match](https://onebigmatch.com/)**
+- 🌱 Currently learning **CI/CD Pipelines**
+- 🧠 Building **S1napse** and **bigfiles**
+- ⚡ Fun fact: *Minecraft Redstone might be the best intro to programming*
 
-- 👨‍💻 All of my projects are available at [https://jjpardo.com/](https://jjpardo.com/)
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/john-jerome-pardo-24b5bb311/**
+### 🧑‍💻 Projects
+Check out more of my work here:  
+👉 **https://jjpardo.com/**
 
-- 📄 Know about my experiences [https://cv.jjpardo.com/cv.pdf](https://cv.jjpardo.com/cv.pdf)
+---
 
-- ⚡ Fun fact **I think Minecraft Redstone is the best way to get into programming**
-
-<h3 align="left">Connect with me:</h3>
+### 📫 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/john jerome pardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john jerome pardo" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/john-jerome-pardo-24b5bb311/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 </p>
