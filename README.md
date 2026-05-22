@@ -7,21 +7,15 @@
   <a href="https://www.linkedin.com/in/john-jerome-pardo-24b5bb311/">LinkedIn</a>
 </p>
 
----
-
 ### 🚀 About Me
 - 🔭 Worked on **[One Big Match](https://onebigmatch.com/)**
 - 🌱 Currently learning **CI/CD Pipelines**
 - 🧠 Building **S1napse** and **bigfiles**
 - ⚡ Fun fact: *Minecraft Redstone might be the best intro to programming*
 
----
-
 ### 🧑‍💻 Projects
 Check out more of my work here:  
 👉 **https://jjpardo.com/**
-
----
 
 ### 📫 Connect With Me
 <p align="left">
