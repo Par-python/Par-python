@@ -10,7 +10,7 @@
 ### About Me
 - Worked on **[One Big Match](https://onebigmatch.com/)**, **[S1napse](https://s1napse.jjpardo.com/)**, and **[bigfiles](https://crates.io/crates/bigfiles)**
 - Currently learning **ML, data analysis, and signal processing**
-- Building **NextOnMenu**, and UpSheet
+- Building **NextOnMenu, and UpSheet**
 - Fun fact: *Minecraft Redstone might be the best intro to programming*
 
 ### Projects
