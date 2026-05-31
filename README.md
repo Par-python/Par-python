@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JJ</h1>
+<h1 align="center">Hi, I'm JJ</h1>
 <h3 align="center">Computer Science student building things that are useful, fun, and (hopefully) impactful</h3>
 
 <p align="center">
@@ -7,17 +7,17 @@
   <a href="https://www.linkedin.com/in/john-jerome-pardo-24b5bb311/">LinkedIn</a>
 </p>
 
-### 🚀 About Me
-- 🔭 Worked on **[One Big Match](https://onebigmatch.com/)**, **[S1napse](https://s1napse.jjpardo.com/)**, and **[bigfiles](https://crates.io/crates/bigfiles)**
-- 🌱 Currently learning **ML, data analysis, and signal processing**
-- 🧠 Building **NextOnMenu**
-- ⚡ Fun fact: *Minecraft Redstone might be the best intro to programming*
+### About Me
+- Worked on **[One Big Match](https://onebigmatch.com/)**, **[S1napse](https://s1napse.jjpardo.com/)**, and **[bigfiles](https://crates.io/crates/bigfiles)**
+- Currently learning **ML, data analysis, and signal processing**
+- Building **NextOnMenu**
+- Fun fact: *Minecraft Redstone might be the best intro to programming*
 
-### 🧑‍💻 Projects
+### Projects
 Check out more of my work here:  
-👉 **https://jjpardo.com/**
+**https://jjpardo.com/**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
