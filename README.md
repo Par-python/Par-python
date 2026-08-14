@@ -5,12 +5,13 @@
   <a href="https://jjpardo.com/">Portfolio</a> •
   <a href="https://cv.jjpardo.com/cv.pdf">Resume</a> •
   <a href="https://www.linkedin.com/in/john-jerome-pardo-24b5bb311/">LinkedIn</a>
+  <a>johnjerome.pardo@gmail.com</a>
 </p>
 
 ### About Me
 - Worked on **[entroscope](https://github.com/Par-python/entroscope)**, **[S1napse](https://s1napse.jjpardo.com/)**, and **[bigfiles](https://crates.io/crates/bigfiles)**
+- Working at **[Quartz Lab](https://www.quartzlabs.ai/) **& **[Swarm](https://www.swarm.work/) **
 - Currently learning **ML, data analysis, and signal processing**
-- Building **NextOnMenu**, and **entroscope**
 - Fun fact: *Minecraft Redstone might be the best intro to programming*
 
 ### Projects
