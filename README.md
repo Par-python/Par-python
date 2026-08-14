@@ -8,7 +8,7 @@
 </p>
 
 ### About Me
-- Worked on **[One Big Match](https://onebigmatch.com/)**, **[S1napse](https://s1napse.jjpardo.com/)**, and **[bigfiles](https://crates.io/crates/bigfiles)**
+- Worked on **[entroscope](https://github.com/Par-python/entroscope)**, **[S1napse](https://s1napse.jjpardo.com/)**, and **[bigfiles](https://crates.io/crates/bigfiles)**
 - Currently learning **ML, data analysis, and signal processing**
 - Building **NextOnMenu**, and **entroscope**
 - Fun fact: *Minecraft Redstone might be the best intro to programming*
