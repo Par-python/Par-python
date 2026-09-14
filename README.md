@@ -5,7 +5,7 @@
   <a href="https://jjpardo.com/">Portfolio</a> •
   <a href="https://cv.jjpardo.com/cv.pdf">Resume</a> •
   <a href="https://www.linkedin.com/in/john-jerome-pardo-24b5bb311/">LinkedIn</a> •
-  <a>johnjerome.pardo@gmail.com</a>
+  <a href="mailto:johnjerome.pardo@gmail.com">johnjerome.pardo@gmail.com</a>
 </p>
 
 ### About Me
