@@ -9,7 +9,6 @@
 </p>
 
 ### About Me
-- Worked on **[entroscope](https://github.com/Par-python/entroscope)**, **[S1napse](https://s1napse.jjpardo.com/)**, and **[bigfiles](https://crates.io/crates/bigfiles)**
 - Working at [Quartz Lab](https://www.quartzlabs.ai/) & [Swarm](https://www.swarm.work/)
 - Currently learning **DL, data analysis, and signal processing**
 - Fun fact: *Minecraft Redstone might be the best intro to programming*
