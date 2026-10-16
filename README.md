@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm JJ</h1>
-<h3 align="center">Computer Science student building things that are useful, fun, and (hopefully) impactful</h3>
+<h1 align="left">Hi, I'm JJ</h1>
+<h3 align="left">Computer Science student building things that are useful, fun, and (hopefully) impactful</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://jjpardo.com/">Portfolio</a> •
   <a href="https://cv.jjpardo.com/cv.pdf">Resume</a> •
   <a href="https://www.linkedin.com/in/john-jerome-pardo-24b5bb311/">LinkedIn</a> •
