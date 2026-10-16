@@ -9,12 +9,9 @@
 </p>
 
 ### About Me
-- Working at [Quartz Lab](https://www.quartzlabs.ai/) & [Swarm](https://www.swarm.work/)
-- Currently learning **DL, data analysis, and signal processing**
-- Fun fact: *Minecraft Redstone might be the best intro to programming*
+I'm currently working at [Quartz Lab](https://www.quartzlabs.ai/) and [Swarm](https://www.swarm.work/), and learning **DL, data analysis, and signal processing** on the side. Fun fact: I think *Minecraft Redstone might be the best intro to programming*.
 
-### Projects
-Check out more of my work here:  
+You can check out more of my work here:  
 **https://jjpardo.com/**
 
 ### Tech Stack
