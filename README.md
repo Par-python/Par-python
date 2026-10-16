@@ -9,7 +9,7 @@
 </p>
 
 ### About Me
-I'm currently working at [Quartz Lab](https://www.quartzlabs.ai/) and [Swarm](https://www.swarm.work/), and learning **DL, data analysis, and signal processing** on the side. Fun fact: I think *Minecraft Redstone might be the best intro to programming*.
+I'm a CS student at Ateneo de Manila, currently working at [Quartz Lab](https://www.quartzlabs.ai/) and [Swarm](https://www.swarm.work/). On the side I'm learning **DL, data analysis, and signal processing**, mostly because my projects keep needing them. When I'm not doing that, I'm probably sim racing. Fun fact: I think *Minecraft Redstone might be the best intro to programming*, since you're dealing with logic and debugging without even realizing it.
 
 You can check out more of my work here:  
 **https://jjpardo.com/**
